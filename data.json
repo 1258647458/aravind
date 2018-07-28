@@ -1,0 +1,44 @@
+{"details":{
+  "image":"profile.png",
+  "name":"aravind",
+  "phoneno":"+91-8885556446",
+  "email":"vinayfght@gmail.com",
+  "Address":"mic colege of technology,kanchikacherla,Andra pradesh"
+},
+"career":{
+  "info":"To pursura challeng career and be a"
+},
+"education":[{
+  "qualification":"B tech",
+  "institute":"mic college",
+  "year":"2016-2020",
+  "parcentage":"86%"
+},
+{
+"qualification":"Intermadiate",
+"institute":"Narayana college",
+"year":"2013-2014",
+"parcentage":"82%"
+},
+{
+"qualification":"ssc",
+"institute":"vivekananda vidyalayam",
+"year":"2014",
+"parcentage":"72%"
+}
+],
+"skills":[{
+  "tittle":"programminig language",
+  "info":["c,c++,java,R,python"]
+},
+{
+  "title":"databases",
+  "info":["oracal,SQL,MYSQL"]
+}
+],
+"Achivements":[
+  {
+  "info":"First prize in Cricket"
+}
+]
+}
